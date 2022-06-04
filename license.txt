@@ -1,0 +1,11 @@
+Model Information:
+* title:	Scacco matto
+* source:	https://sketchfab.com/3d-models/scacco-matto-4fb18d3b9c554cba90f749acc0840e5b
+* author:	Lucio Arseni (https://sketchfab.com/lucioarseni)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Scacco matto" (https://sketchfab.com/3d-models/scacco-matto-4fb18d3b9c554cba90f749acc0840e5b) by Lucio Arseni (https://sketchfab.com/lucioarseni) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
